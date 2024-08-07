@@ -1,4 +1,4 @@
-0 No Painting Lights
-1 No painting no lights
-2 painting lights
-3 painting no lights
+0 NO PINTURA LUZ
+1 NO PINTURA NO LUZ
+2 PINTURA LUZ
+3 PINTURA NO LUZ
