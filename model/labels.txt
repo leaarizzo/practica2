@@ -1,2 +1,4 @@
-0 Luz
-1 No Luz
+0 No Painting Lights
+1 No painting no lights
+2 painting lights
+3 painting no lights
